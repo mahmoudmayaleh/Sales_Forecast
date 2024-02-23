@@ -2,6 +2,9 @@
 Overview
 This project aims to predict future sales based on historical data, employing various machine learning techniques. The dataset, sourced from 'train.csv', contains detailed information about sales across different stores, items, and dates. The project follows a systematic process, including data exploration, preprocessing, feature engineering, model training, and performance evaluation.
 
+![proj-forecast](https://github.com/mahmoudmayaleh/Sales_Forecast/assets/124529384/e8c1a1d0-8801-4559-b5ec-7f3591267432)
+
+
 # Key Steps
 Data Exploration and Preprocessing
 The initial step involves loading the sales data and exploring its structure.
